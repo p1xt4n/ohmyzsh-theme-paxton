@@ -1,4 +1,4 @@
-# Paxton's Theme - https://
+# Paxton's Theme - https://github.com/p1xt4n/ohmyzsh-theme-paxton/
 
 
 right_triangle() {
